@@ -1,0 +1,2 @@
+# aidd
+Azure AI services
